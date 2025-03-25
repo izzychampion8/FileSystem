@@ -1,6 +1,6 @@
 // Isabelle Champion
 // A Simple File System 
-// added the .txt extension because wasn't able to upload as a .c file
+
 
 #include <stdio.h>
 #include <stdlib.h>
